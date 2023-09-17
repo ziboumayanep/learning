@@ -1,3 +1,6 @@
 .terraform
 *.tfstate
 *.tfstate.backup
+.idea
+.ipynb_checkpoints
+.virtual_documents
